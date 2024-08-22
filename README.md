@@ -10,9 +10,9 @@ User-Friendly Interface: The application is designed with a focus on usability, 
 
 ## Technologies Used
 
-## Frontend:
-React.js: For building the user interface and managing component-based architecture.
-JavaScript: For dynamic content rendering and handling logic.
-API Integration:
-Third-Party News API: Integrated to fetch real-time news articles.
-API Key Authentication: Securely accessed the News API using an API key, demonstrating an understanding of external API usage and security practices.
+ -**Frontend:**
+- React.js: For building the user interface and managing component-based architecture.
+- JavaScript: For dynamic content rendering and handling logic.
+## API Integration:
+- Third-Party News API: Integrated to fetch real-time news articles.
+- API Key Authentication: Securely accessed the News API using an API key, demonstrating an understanding of external API usage and security practices.
